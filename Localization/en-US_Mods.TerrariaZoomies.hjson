@@ -1,0 +1,26 @@
+Configs: {
+	ZoomiesConfig: {
+		DisplayName: Zoomies Config
+
+		SprintToggle: {
+			Label: Sprint Toggle
+			Tooltip:
+				'''
+				If set to true, the sprint will be toggleable.
+				If set to false, the sprint button must be held.
+				Default value: false
+				'''
+		}
+
+		mphSprintBoost: {
+			Label: Sprint Speed Boost
+			Tooltip:
+				'''
+				How many miles per hour faster sprinting is.
+				Default value: 10
+				'''
+		}
+	}
+}
+
+Keybinds.Sprint.DisplayName: Sprint
