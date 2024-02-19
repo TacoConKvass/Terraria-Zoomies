@@ -1,3 +1,6 @@
 displayName = Zoomies
 author = TacoConKvass
 version = 1.0.0.0
+includeSource = true
+homepage = https://github.com/TacoConKvass/Zoomies
+buildIgnore = .git\*, .vs\*, bin\*, obj\*

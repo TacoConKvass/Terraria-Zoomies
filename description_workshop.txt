@@ -1,0 +1,5 @@
+[h1]Zoomies[/h1]
+Zoomies adds a sprinting mechanic. That's all.
+Sprint movement speed stacks with movement accessories.
+
+Idea by: Prismatica
